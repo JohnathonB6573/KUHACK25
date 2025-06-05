@@ -4,6 +4,8 @@ Empowering Patients Through Clear Medical Billing
 
 Transparent Care is an innovative mobile app that helps you decode, understand, and dispute confusing medical bills. Simply take a picture of your itemized receipt, and our AI will break down each charge, explain procedures in plain language, and even generate a dispute letter if errors are detected.
 
+Demo - https://www.loom.com/share/2f4b9de37a244ff093109bcb6361481c 
+
 ✨ Key Features
 📸 Snap & Scan – Take a photo of your medical bill, and our app extracts all itemized charges with OCR technology.
 
